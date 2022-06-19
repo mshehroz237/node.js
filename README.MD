@@ -1,21 +1,21 @@
-# yes
+# readme genertaor
   # Description
-   yes
+   creating a readme
 
    # Installation
-   yes
+   download npm before running the code
 
    # Usage
-   yes
+   used javascript
 
    # Contribution
-   yes
+   designed the backendnode
 
    # Tests
-   yes
+   none
 
    # License
-   Apache
+   MIT
    ![badge](https://img.shields.io/badge/license-undefined-brightgreen)
     This application is covered by the undefined license. 
 
@@ -30,5 +30,5 @@
 
 
     # Questions
-    Find me on GitHub: [yes](https://github.com/yes)
-    Email me with any questions: yes
+    Find me on GitHub: [mshehroz237](https://github.com/mshehroz237)
+    Email me with any questions: muhamadshehroz10089@icloud.com
