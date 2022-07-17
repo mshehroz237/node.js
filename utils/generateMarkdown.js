@@ -15,6 +15,15 @@ function renderLicenseSection(license) { }
 
 function generateMarkdown(data) {
   return `# ${data.title}
+  
+  ## Table of Contents
+
+  * [desciption](#Description)
+  * [installation](#Installation)
+  * [usage](#Usage)
+  * [contribution](#contribution)
+  * [installation](#Tests)
+  * 
   # Description
    ${data.description}
 
@@ -35,14 +44,6 @@ function generateMarkdown(data) {
    ![badge](https://img.shields.io/badge/license-${data.lisence}-brightgreen)
     This application is covered by the ${data.lisence} license. 
 
-
-    ## Table of Contents
-
-   * [desciption](#Description)
-   * [installation](#Installation)
-   * [usage](#Usage)
-   * [contribution](#contribution)
-   * [installation](#Tests)
 
 
     # Questions

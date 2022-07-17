@@ -9,6 +9,16 @@ In the writetofile fucntion created a writefule functions that will create the r
 
 in the init function i took the prompts and then passed the answers into template by using then
 
+# GitHub Repo:
+https://github.com/mshehroz237/node.js
+
+# Video Links:
+https://drive.google.com/file/d/1xKdC18YMg31AAm2IrUabfc-IvXHA5MfX/view
+
+https://drive.google.com/file/d/1hhw4k59_MO_Fjtq4ZeDBg-SPSMJF2MpH/view
+
+
+
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
                                                         Images
